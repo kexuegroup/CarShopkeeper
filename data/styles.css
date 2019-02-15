@@ -57,6 +57,8 @@
 }
 .image {
 }
+.button {
+}
 .shape {
 }
 .image1 {
@@ -137,4 +139,6 @@
 .text_field {
   color:#000000;
   text-align:left;
+}
+.box_16 {
 }
