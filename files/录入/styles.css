@@ -3592,20 +3592,19 @@
   top:986px;
   width:206px;
   height:118px;
-  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
+  font-family:'MicrosoftYaHei', '微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:14px;
-  color:#0000FF;
+  color:#FF0000;
   text-align:left;
 }
 #u240_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:49px;
+  width:202px;
   word-wrap:break-word;
 }
 #u241_div {
